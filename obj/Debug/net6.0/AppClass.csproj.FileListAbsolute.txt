@@ -1,0 +1,15 @@
+C:\Users\quant\Documents\AppClass\bin\Debug\net6.0\AppClass.exe
+C:\Users\quant\Documents\AppClass\bin\Debug\net6.0\AppClass.deps.json
+C:\Users\quant\Documents\AppClass\bin\Debug\net6.0\AppClass.runtimeconfig.json
+C:\Users\quant\Documents\AppClass\bin\Debug\net6.0\AppClass.dll
+C:\Users\quant\Documents\AppClass\bin\Debug\net6.0\AppClass.pdb
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.csproj.AssemblyReference.cache
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.AssemblyInfoInputs.cache
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.AssemblyInfo.cs
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.csproj.CoreCompileInputs.cache
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.dll
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\refint\AppClass.dll
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.pdb
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\AppClass.genruntimeconfig.cache
+C:\Users\quant\Documents\AppClass\obj\Debug\net6.0\ref\AppClass.dll
